@@ -1,6 +1,12 @@
 #ifndef DECK_H
 #define DECK_H
 
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+
+#define TOTAL 52
+
 /**
  * enum kind_e - card kind
  * @SPADE: spade kind
